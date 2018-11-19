@@ -2,7 +2,7 @@
 ---
 https://github.com/pdfkit/pdfkit
 
-```
+```ruby
 ```
 
 ```
