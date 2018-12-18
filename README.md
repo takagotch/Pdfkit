@@ -1,6 +1,10 @@
 ### Pdfkit
 ---
+.rb
 https://github.com/pdfkit/pdfkit
+
+.js
+https://github.com/foliojs/pdfkit
 
 ```ruby
 kit = PDFKit.new(html, :page_size => 'Letter')
